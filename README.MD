@@ -1,0 +1,1 @@
+This repository related to passed course https://www.udemy.com/course/learn-kubernetes/
